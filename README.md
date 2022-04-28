@@ -1,6 +1,7 @@
 How to use API
 
 https://warm-meadow-94816.herokuapp.com/
+
 The URL must contain a valid path for data to be shown.
 
 Routes/Paths:
